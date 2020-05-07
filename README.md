@@ -14,12 +14,20 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
+### 1 most recent TILs
+
+- [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md) - Thu May 7 15:25:51 2020 +0300
+
 ### Categories
 
+- [Gitea](#Gitea)
+
+### [Gitea](#Gitea)
+- [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
 
 Thanks cflynn07 (and Simon Wilson) for this github action. Please check out https://github.com/cflynn07/github-action-til-autoformat-readme.
 
