@@ -14,7 +14,7 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _3 TILs and counting..._
 ### [Automation](#Automation)
 - [Books](Automation/books.md)
 - [Connecting to remote OPC-DA server](Automation/connecting-to-remote-opcda-server.md)
+- [The many Hats of an Automation Engineer](Automation/many-hats-of-automation-engineer.md)
 
 ### [Gitea](#Gitea)
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
