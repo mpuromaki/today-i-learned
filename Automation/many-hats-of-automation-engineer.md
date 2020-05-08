@@ -1,0 +1,43 @@
+# The many Hats of an Automation Engineer
+
+- Electrician
+  - Re-wiring..
+- Instrumentation Tech
+  - Scale those instruments to 4..20 mA, suggest better suited sensors.
+- Electrical Designer
+  - Do not zap anyone.
+- Commissioning Engineer
+  - 80% travel, 80 hour weeks.
+- Network Engineer
+  - Ethernet design, Managed Networks, Network Security, Firewalls, VPNs.
+- System Admin
+  - User security, access rights, audit logs.
+- Graphic Designer
+  - HA!
+- IT Engineer
+  - Dealing with Windows, Servers, Virtualization.
+- Project Manager
+  - Scheduling, €€€.
+- Component Purchaser
+  - What? I need to get quotes and argue with purchasing?
+- Computer Programmer
+  - Get my script on.. VBA, Python.
+- PLC Programmer
+  - Oh finally! Something I thought I would be doing!
+- SCADA Developer
+  - Ugh, FTViewSE? WW?
+- Database Admin
+  - SQL, MS Access. #ugh
+- Excel Guru
+  - Knows how to use Excel to make life a little easier.
+- Process Engineer
+  - Because I know it's not a programming issue.
+- Hydraulic Tech
+  - Because I know it's not a programming issue.
+- Salesman
+  - Because I don't trust that guy.
+- Customer Service Rep
+  - Got to make sure not to upset the customer.
+- Mathematician
+  - Numbers!
+- The guy that "makes it work"
