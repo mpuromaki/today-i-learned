@@ -14,19 +14,20 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Training material for Rust programming language](Rust/training-material.md) - Wed May 13 11:35:52 2020 +0300
 - [Books](Automation/books.md) - Thu May 7 15:49:13 2020 +0300
-- [Connecting to remote OPC-DA server](Automation/connecting-to-remote-opcda-server.md) - Thu May 7 15:47:27 2020 +0300
 
 ### Categories
 
 - [Automation](#Automation)
 - [Gitea](#Gitea)
+- [Rust](#Rust)
 
 ### [Automation](#Automation)
 - [Books](Automation/books.md)
@@ -35,6 +36,9 @@ _4 TILs and counting..._
 
 ### [Gitea](#Gitea)
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
+
+### [Rust](#Rust)
+- [Training material for Rust programming language](Rust/training-material.md)
 
 Thanks cflynn07 (and Simon Wilson) for this github action. Please check out https://github.com/cflynn07/github-action-til-autoformat-readme.
 
