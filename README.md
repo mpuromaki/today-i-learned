@@ -14,20 +14,21 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Thoughts about privacy and encryption](Privacy/thoughts-privacy-encryption.md) - Wed May 20 10:08:55 2020 +0300
 - [Ethical Dilemmas in Engineering](Engineering/ethical-dilemmas-in-engineering.md) - Thu May 14 13:31:32 2020 +0300
-- [Training material for Rust programming language](Rust/training-material.md) - Wed May 13 11:35:52 2020 +0300
 
 ### Categories
 
 - [Automation](#Automation)
 - [Engineering](#Engineering)
 - [Gitea](#Gitea)
+- [Privacy](#Privacy)
 - [Rust](#Rust)
 
 ### [Automation](#Automation)
@@ -40,6 +41,9 @@ _6 TILs and counting..._
 
 ### [Gitea](#Gitea)
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
+
+### [Privacy](#Privacy)
+- [Thoughts about privacy and encryption](Privacy/thoughts-privacy-encryption.md)
 
 ### [Rust](#Rust)
 - [Training material for Rust programming language](Rust/training-material.md)
