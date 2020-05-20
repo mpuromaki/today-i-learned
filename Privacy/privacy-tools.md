@@ -9,6 +9,14 @@ messaging software which uses double-ratcheting [signal encryption](https://sign
 for very powerful encryption, allowing both perfect historical- and forward
 secrecy.
 
+The software, especially on Android, is very simple to install and use.
+You can get if from Google Play Store and then it just takes couple taps
+to set everything up. All the encryption stuff is done automatically by
+the software itself, so the user does not have to worry about key handling.
+The Signal app also can be set up to handle normal SMS messages, so those
+get stored into local encrypted store alongside the encrypted Signal
+messages.
+
 The encryption used in Signal is very interesting and I highly suggest
 reading the white-papers and security audit documentation about it. 
 
