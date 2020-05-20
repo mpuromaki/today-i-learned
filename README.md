@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Tools for privacy](Privacy/privacy-tools.md) - Wed May 20 10:22:47 2020 +0300
 - [Thoughts about privacy and encryption](Privacy/thoughts-privacy-encryption.md) - Wed May 20 10:08:55 2020 +0300
-- [Ethical Dilemmas in Engineering](Engineering/ethical-dilemmas-in-engineering.md) - Thu May 14 13:31:32 2020 +0300
 
 ### Categories
 
@@ -43,6 +43,7 @@ _7 TILs and counting..._
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
 
 ### [Privacy](#Privacy)
+- [Tools for privacy](Privacy/privacy-tools.md)
 - [Thoughts about privacy and encryption](Privacy/thoughts-privacy-encryption.md)
 
 ### [Rust](#Rust)
