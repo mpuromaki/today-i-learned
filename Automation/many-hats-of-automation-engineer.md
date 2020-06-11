@@ -4,6 +4,8 @@
   - Re-wiring..
 - Instrumentation Tech
   - Scale those instruments to 4..20 mA, suggest better suited sensors.
+- Mechanical Designer
+  - Overlapping with Instrumentation tech, suggest sensors, calculate forces.
 - Electrical Designer
   - Do not zap anyone.
 - Commissioning Engineer
