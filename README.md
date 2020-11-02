@@ -14,7 +14,7 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _8 TILs and counting..._
 - [Rust](#Rust)
 
 ### [Automation](#Automation)
+- [About automation](Automation/about.md)
 - [Books](Automation/books.md)
 - [Connecting to remote OPC-DA server](Automation/connecting-to-remote-opcda-server.md)
 - [The many Hats of an Automation Engineer](Automation/many-hats-of-automation-engineer.md)
