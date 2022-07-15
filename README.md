@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Uncle Bobs Clean Code lessons](Engineering/uncle-bob-clean-code.md) - Fri Jul 15 09:41:52 2022 +0300
 - [Tools for privacy](Privacy/privacy-tools.md) - Wed May 20 10:22:47 2020 +0300
-- [Thoughts about privacy and encryption](Privacy/thoughts-privacy-encryption.md) - Wed May 20 10:08:55 2020 +0300
 
 ### Categories
 
@@ -39,6 +39,7 @@ _9 TILs and counting..._
 
 ### [Engineering](#Engineering)
 - [Ethical Dilemmas in Software Engineering](Engineering/ethical-dilemmas-in-engineering.md)
+- [Uncle Bobs Clean Code lessons](Engineering/uncle-bob-clean-code.md)
 
 ### [Gitea](#Gitea)
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
