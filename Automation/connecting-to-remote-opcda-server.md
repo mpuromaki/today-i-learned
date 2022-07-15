@@ -2,7 +2,7 @@
 
 I have seen multiple automation systems where multiple PCs need
 data from single PLC. This issue has been usually fixed by
-installing OPC-DA-Server-Gateway software on all machines
+installing OPC-DA-PLC-Gateway software on all machines
 that require the data.
 
 This kind of software is needed on all PLCs that do not
@@ -14,18 +14,18 @@ thing is on 800xA OPC-DA communication with the AC800M
 OPC-server acting as MMS gateway (as far as I know).
 
 The problem with multiple gateways is that each of them
-generate load on the PLC. Also on the gateway usually
+generate load on the PLC. Also the gateway usually
 has a list of available variables which are shown
 on the OPC-DA server. If you change the PLC software
-you need to update these lists, usually called OPC-
-files. This easily causes communication issues between
-different systems when changes are made and not all
-systems that require OPC-files are updated.
+you need to update these lists. This easily causes 
+communication issues between different systems when 
+changes are made and not all systems that require 
+OPC-files are updated.
 
 ## The not so good solution
 
 Sometimes this has been fixed by using DCOM for OPC-DA
-communication. While this _should_ work, here be dragons.
+communication. While this _should_ work, **here be dragons**.
 
 DCOM is really hard to configure to work correctly.
 Also some changes on the latest Microsoft Windows'
@@ -37,7 +37,7 @@ Just use OPC-tunneling. This way all devices see local
 OPC-DA server (the tunnel) which then connects to
 the real OPC-server through better means. This could be
 whatever, but usually OPC-DA packets are translated to
-OPC-UA for transfer between devices. This also means
+OPC-UA for transfer between machines. This also means
 that it would be easy to connect OPC-UA systems to this
 solution in the future.
 
