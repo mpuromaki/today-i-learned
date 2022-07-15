@@ -7,6 +7,13 @@ things that should be taken into account much more, especially in Automation Eng
 reason for the software is usually safety of people working with the system. Proper Engineering practices,
 tools and processes should not be optional. Automation Software Engineering should not be the wild west I've seen.
 
+[Uncle Bob Expecting Professionalism (Kuppelsalen, Copenhagen)](https://youtu.be/BSaAMQVq01E?t=360)
+
+Like many other Robert "Uncle Bob" Martins videos around Clean Code, Ethics and professionalism are still an issue
+within programming fields. On this video Robert talks about how our society is fully dependent on software and still
+programmers are releasing software they know is non-functional, usually due to external pressure. Many other engineering
+fields have organized and created some kind of internal ethics, practices and controls to fix precisely same issues. 
+
 ## Archimedean Oath 
 
 Considering the life of Archimedes of Syracuse who illustrated the ambiguous potential of technology since the Antiquity,  
