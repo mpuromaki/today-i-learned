@@ -26,6 +26,3 @@ issues. But remember that even if Whatsapp seems to be as secure as Signal,
 it is still owned by Facebook and the software itself can use side-channels
 to feed data back to Facebook. And recent history has shown, multiple times,
 that Facebook can not be trusted with handling private data.
-
-Let's not go more into Cambridge Analytica, or Facebooks social feed experiments
-which could have caused suicides..
