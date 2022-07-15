@@ -18,9 +18,10 @@ _9 TILs and counting..._
 
 ---
 
-### Most recent TIL
+### 2 most recent TILs
 
-- [About automation](Automation/about.md)
+- [Tools for privacy](Privacy/privacy-tools.md) - Wed May 20 10:22:47 2020 +0300
+- [Thoughts about privacy and encryption](Privacy/thoughts-privacy-encryption.md) - Wed May 20 10:08:55 2020 +0300
 
 ### Categories
 
