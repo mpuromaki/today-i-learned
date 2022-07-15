@@ -38,7 +38,7 @@ _9 TILs and counting..._
 - [The many Hats of an Automation Engineer](Automation/many-hats-of-automation-engineer.md)
 
 ### [Engineering](#Engineering)
-- [Ethical Dilemmas in Engineering](Engineering/ethical-dilemmas-in-engineering.md)
+- [Ethical Dilemmas in Software Engineering](Engineering/ethical-dilemmas-in-engineering.md)
 
 ### [Gitea](#Gitea)
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
