@@ -1,11 +1,11 @@
-# Ethical Dilemmas in Engineering
+# Ethical Dilemmas in Software Engineering
 
 [Andreessen's Corollary: Ethical Dilemmas in Software Engineering by Bryan Cantrill](https://www.youtube.com/watch?v=0wtvQZijPzg)
 
 This talk in 2019 by Brian Cantrill has very important takes on ethics in Software Engineering. These are 
 things that should be taken into account much more, especially in Automation Engineering where the whole
 reason for the software is usually safety of people working with the system. Proper Engineering practices,
-tools and processes should not be optional. Automation Engineering should not be the wild west I've seen.
+tools and processes should not be optional. Automation Software Engineering should not be the wild west I've seen.
 
 ## Archimedean Oath 
 
