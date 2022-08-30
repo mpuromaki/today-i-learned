@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Copying files to SMB server with robocopy](Windows/robocopy-file-backup.md) - Tue Aug 30 13:42:28 2022 +0300
 - [Running Batch file as background task](Windows/Configure-batch-as-background-task.md) - Tue Aug 30 13:30:30 2022 +0300
-- [Uncle Bobs Clean Code lessons](Engineering/uncle-bob-clean-code.md) - Fri Jul 15 09:41:52 2022 +0300
 
 ### Categories
 
@@ -54,6 +54,7 @@ _11 TILs and counting..._
 
 ### [Windows](#Windows)
 - [Running Batch file as background task](Windows/Configure-batch-as-background-task.md)
+- [Copying files to SMB server with robocopy](Windows/robocopy-file-backup.md)
 
 Thanks cflynn07 (and Simon Wilson) for this github action. Please check out https://github.com/cflynn07/github-action-til-autoformat-readme.
 
