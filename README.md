@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Running Batch file as background task](Windows/Configure batch as background task.md) - Tue Aug 30 13:26:02 2022 +0300
 - [Uncle Bobs Clean Code lessons](Engineering/uncle-bob-clean-code.md) - Fri Jul 15 09:41:52 2022 +0300
-- [Tools for privacy](Privacy/privacy-tools.md) - Wed May 20 10:22:47 2020 +0300
 
 ### Categories
 
@@ -30,6 +30,7 @@ _10 TILs and counting..._
 - [Gitea](#Gitea)
 - [Privacy](#Privacy)
 - [Rust](#Rust)
+- [Windows](#Windows)
 
 ### [Automation](#Automation)
 - [About automation](Automation/about.md)
@@ -50,6 +51,9 @@ _10 TILs and counting..._
 
 ### [Rust](#Rust)
 - [Training material for Rust programming language](Rust/training-material.md)
+
+### [Windows](#Windows)
+- [Running Batch file as background task](Windows/Configure batch as background task.md)
 
 Thanks cflynn07 (and Simon Wilson) for this github action. Please check out https://github.com/cflynn07/github-action-til-autoformat-readme.
 
