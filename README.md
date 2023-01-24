@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Thoughts about Industrial Automation Software Development](Automation/thoughts-about-software-development.md) - Tue Jan 24 14:13:23 2023 +0200
 - [Copying files to SMB server with robocopy](Windows/robocopy-file-backup.md) - Tue Aug 30 13:42:28 2022 +0300
-- [Running Batch file as background task](Windows/Configure-batch-as-background-task.md) - Tue Aug 30 13:30:30 2022 +0300
 
 ### Categories
 
@@ -37,6 +37,7 @@ _12 TILs and counting..._
 - [Books](Automation/books.md)
 - [Connecting to remote OPC-DA server](Automation/connecting-to-remote-opcda-server.md)
 - [The many Hats of an Automation Engineer](Automation/many-hats-of-automation-engineer.md)
+- [Thoughts about Industrial Automation Software Development](Automation/thoughts-about-software-development.md)
 
 ### [Engineering](#Engineering)
 - [Ethical Dilemmas in Software Engineering](Engineering/ethical-dilemmas-in-engineering.md)
