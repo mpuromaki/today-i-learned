@@ -14,20 +14,21 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [How to grow root partition (ubuntu server, minimal)](Linux/grow-root-partition.md) - Tue Sep 19 23:31:10 2023 +0300
 - [Thoughts about Industrial Automation Software Development](Automation/thoughts-about-software-development.md) - Tue Jan 24 14:13:23 2023 +0200
-- [Copying files to SMB server with robocopy](Windows/robocopy-file-backup.md) - Tue Aug 30 13:42:28 2022 +0300
 
 ### Categories
 
 - [Automation](#Automation)
 - [Engineering](#Engineering)
 - [Gitea](#Gitea)
+- [Linux](#Linux)
 - [Privacy](#Privacy)
 - [Rust](#Rust)
 - [Windows](#Windows)
@@ -45,6 +46,9 @@ _13 TILs and counting..._
 
 ### [Gitea](#Gitea)
 - [Setting up local gitea server](Gitea/setting-up-local-gitea-server.md)
+
+### [Linux](#Linux)
+- [How to grow root partition (ubuntu server, minimal)](Linux/grow-root-partition.md)
 
 ### [Privacy](#Privacy)
 - [Tools for privacy](Privacy/privacy-tools.md)
