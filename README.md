@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Tailscale for Linux](Linux/tailscale.md) - Sat Nov 16 10:10:44 2024 +0200
 - [Linux and laptop charging](Linux/laptop-battery.md) - Mon Nov 11 21:58:36 2024 +0200
-- [How to grow root partition (ubuntu server, minimal)](Linux/grow-root-partition.md) - Tue Sep 19 23:31:10 2023 +0300
 
 ### Categories
 
@@ -50,6 +50,7 @@ _15 TILs and counting..._
 ### [Linux](#Linux)
 - [How to grow root partition (ubuntu server, minimal)](Linux/grow-root-partition.md)
 - [Linux and laptop charging](Linux/laptop-battery.md)
+- [Tailscale for Linux](Linux/tailscale.md)
 
 ### [Privacy](#Privacy)
 - [Tools for privacy](Privacy/privacy-tools.md)
