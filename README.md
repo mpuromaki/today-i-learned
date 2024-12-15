@@ -14,14 +14,14 @@ As a side-rant the industrial and maritime automation systems should really
 look into general programming workflows, and maybe learn a thing or two.
 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [TrueNAS Scale 23, autoexpand bug](Linux/truenas-scale-autoexpand-bug.md) - Sun Dec 15 22:10:26 2024 +0200
 - [Tailscale for Linux](Linux/tailscale.md) - Sat Nov 16 10:10:44 2024 +0200
-- [Linux and laptop charging](Linux/laptop-battery.md) - Mon Nov 11 21:58:36 2024 +0200
 
 ### Categories
 
@@ -51,6 +51,7 @@ _16 TILs and counting..._
 - [How to grow root partition (ubuntu server, minimal)](Linux/grow-root-partition.md)
 - [Linux and laptop charging](Linux/laptop-battery.md)
 - [Tailscale for Linux](Linux/tailscale.md)
+- [TrueNAS Scale 23, autoexpand bug](Linux/truenas-scale-autoexpand-bug.md)
 
 ### [Privacy](#Privacy)
 - [Tools for privacy](Privacy/privacy-tools.md)
